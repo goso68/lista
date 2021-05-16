@@ -1,0 +1,87 @@
+{
+  "name": "peliculas",
+  "author": "rayo68",
+  "url": "https://www.dropbox.com/s/k8simysa0ylcwpb/peliculas%20y%20series.wise?dl=0",
+  "groups": [
+    
+	{
+      "name": "peliculas por generos",
+      "image": "https://www.dropbox.com/s/mosqhwelalouwe4/acci%C3%B3n-design-china-name.png?dl=0",
+      "stations": [
+        
+        {
+                        "name": "accion",
+                        "image": "https://www.dropbox.com/s/hhzad5163do2l0p/png-clipart-cinema-film-moveis-logo-film.png?dl=0",
+                        "url": "https://repelis24.co/genero/accion/",                      
+        },
+        {
+                        "name": "Canal 2",
+                        "image": "http://www.observadortlaxcalteca.com/portal/wp-content/uploads/2012/09/zacatelco.jpeg",
+                        "url": "http://208.75.225.28:1935/live/regfegtrg/chunklist.m3u8"
+        },
+
+       ]
+    },
+    {
+      "name": "NOMBRE DEL MODULO",
+      "image": " ",
+      "stations": [
+        
+                {
+                        "name": "Canal 3",
+                        "image": "http://www.lapampa.gov.ar/images/stories/Imagenes/Ima_home/canal_3_09-02.jpg",
+                        "url": "http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8"
+                },
+				{
+                        "name": "Canal 4",
+                        "image": "http://www.canal4jujuy.com.ar/img/logo.jpg",
+                        "url": "http://www.janjuaplayer.com/embedplayer/discoverysusy/1/600/400",
+                        "referer": "http://tvpor-internet.com/discovery-latino-en-vivo.html",
+                        "isHost": "true"
+                },
+                
+       ]
+    },
+    name": "NOMBRE DEL MODULO",
+      "image": " ",
+      "stations": [
+        
+                {
+                        "name": "Canal 3",
+                        "image": "http://www.lapampa.gov.ar/images/stories/Imagenes/Ima_home/canal_3_09-02.jpg",
+                        "url": "http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8"
+                },
+				{
+                        "name": "Canal 4",
+                        "image": "http://www.canal4jujuy.com.ar/img/logo.jpg",
+                        "url": "http://www.janjuaplayer.com/embedplayer/discoverysusy/1/600/400",
+                        "referer": "http://tvpor-internet.com/discovery-latino-en-vivo.html",
+                        "isHost": "true"
+                },
+                
+       ]
+    },
+    "name": "NOMBRE DEL MODULO",
+      "image": " ",
+      "stations": [
+        
+                {
+                        "name": "Canal 3",
+                        "image": "http://www.lapampa.gov.ar/images/stories/Imagenes/Ima_home/canal_3_09-02.jpg",
+                        "url": "http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8"
+                },
+				{
+                        "name": "Canal 4",
+                        "image": "http://www.canal4jujuy.com.ar/img/logo.jpg",
+                        "url": "http://www.janjuaplayer.com/embedplayer/discoverysusy/1/600/400",
+                        "referer": "http://tvpor-internet.com/discovery-latino-en-vivo.html",
+                        "isHost": "true"
+                },
+                
+       ]
+    
+		
+		
+		
+                ]
+}
